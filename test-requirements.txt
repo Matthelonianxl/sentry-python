@@ -7,3 +7,4 @@ pytest-cov==2.8.1
 gevent
 eventlet
 newrelic
+dnspython>=2.6.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
